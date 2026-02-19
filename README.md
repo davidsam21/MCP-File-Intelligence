@@ -143,8 +143,8 @@ http://localhost:8002/docs
 | FILE_SERVICE_URL | URL of file microservice          | `http://localhost:8001` |
 
 Inside Docker:
-BASE_DIR=/app/data
-FILE_SERVICE_URL=http://file_service:8001
+- BASE_DIR=/app/data
+- FILE_SERVICE_URL=http://file_service:8001
 
 🧠 Technical Highlights
 - Clean separation of concerns
