@@ -171,7 +171,7 @@ FILE_SERVICE_URL=http://file_service:8001
 - Docker Compose
 
 📜 License
-This project is intended for educational and architectural demonstration purposes.
+- This project is intended for educational and architectural demonstration purposes.
 
 👨‍💻 Author
-Developed as a modular microservice backend system demonstrating secure file intelligence architecture.
+- Developed as a modular microservice backend system demonstrating secure file intelligence architecture.
